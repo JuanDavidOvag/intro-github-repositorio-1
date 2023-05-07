@@ -1,4 +1,4 @@
-# intro-github-ejercicio1 
+# aspirantes-mir-ejercicio-1.
 git init
 README.md
 "Version Inicial"
